@@ -1,1 +1,1 @@
-# avalanche-network-runner-sdk
+# dijetsnode-go-runner-sdk
